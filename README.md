@@ -17,7 +17,7 @@ It showcases my projects, skills, and contact information with a clean, modern U
 
 ## Live Demo 
 
-Check out the live portfolio here: [Live Demo](https://DhananjayC09.github.io/Portfolio/) 
+Check out the live portfolio here: [Live Demo](https://DhananjayC09.github.io/Personal-Portfolio/)
 
 ## Folder Structure
 
